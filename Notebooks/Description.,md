@@ -1,0 +1,2 @@
+This folder has notebooks ran for different experimental protocols over different datasets. 
+We have experimented with incremental learning, Open-Set Verification (OSV), Closed-Set Verification for different ECG splitting schemes.
