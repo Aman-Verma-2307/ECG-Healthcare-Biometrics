@@ -9,4 +9,3 @@
    * There was no coherent experimentation protocol across the literature, therefore we had experimented with a lot many protocols. The most challenging Open-Set with different time-interval based splitting of ECG Signals was one such example.
    * Interpretibility of some of the results on PTB was not there
    * There was challenges in pre-processig (again very weakly defined in the literature)
-   * Very limited emphasis was laid on Attacks
